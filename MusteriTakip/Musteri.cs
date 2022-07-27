@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MusteriTakip
 {
-    public class Musteri:MusteriManager
+    public class Musteri
     {
         public int ID { get; set; }
         public string Ad { get; set; }
